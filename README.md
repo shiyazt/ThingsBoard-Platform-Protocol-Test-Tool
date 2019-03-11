@@ -11,6 +11,8 @@ Using this application user can able to test CoAP, MQTT & HTTP Protocol with you
 
 **HTTP**:HTTP is a general-purpose network protocol that can be used in IoT applications.
 
+Upload Test Data Type:
+---------------------
 **Json File Format**:
 By default, ThingsBoard supports key-value content in JSON. Key is always a string, while value can be either string, boolean, double or long.
 example:

@@ -27,3 +27,7 @@ MQTT Protocol:
 HTTP Protocol:
 -------------
 ![alt text](https://github.com/shiyazt/ThingsBoard-Platform-Protocol-Tester/blob/master/images/HTTP_Protocol.png)
+
+ThingsBoard Demo Instance Latest Telemetry
+------------------------------------------
+![alt text](https://github.com/shiyazt/ThingsBoard-Platform-Protocol-Tester/blob/master/images/TB%20Data.png)

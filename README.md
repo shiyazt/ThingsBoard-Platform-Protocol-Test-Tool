@@ -62,12 +62,7 @@ sudo npm install coap-cli -g
   git clone https://github.com/shiyazt/ThingsBoard-Platform-Protocol-Tester.git
   
   ```
-3) go to src folder
-  ```
-  cd src
-  
-  ```
- 4) Run the Python script
+ 3) In src folder Run the Python script
   ```
   python3 ProtocolTester.pyc
   

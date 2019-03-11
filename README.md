@@ -54,6 +54,7 @@ pip3 install wheel
 
 pip3 install paho-mqtt
 
-sudo npm install coap-cli -g ```
+sudo npm install coap-cli -g
+```
 
 #**Tested and Worked on Ubuntu 18.04, Linuxmint 19.1 & Ubuntu 16.04**

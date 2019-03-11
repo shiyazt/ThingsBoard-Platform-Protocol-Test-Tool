@@ -69,7 +69,7 @@ sudo npm install coap-cli -g
   ```
  4) Run the Python script
   ```
-  python3 tester.py
+  python3 ProtocolTester.pyc
   
   ```
 

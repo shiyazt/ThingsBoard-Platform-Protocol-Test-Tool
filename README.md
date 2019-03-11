@@ -58,13 +58,13 @@ pip3 install paho-mqtt
 sudo npm install coap-cli -g
 ```
 2) Clone this project 
-3) go to src folder
+  ```git clone https://github.com/shiyazt/ThingsBoard-Platform-Protocol-Tester.git
   ```
-  cd src
+3) go to src folder
+  ``` cd src
   ```
  4) Run the Python script
-  ```
-  python3 tester.py
+  ```python3 tester.py
   ```
 
 #**Tested and Worked on Ubuntu 18.04, Linuxmint 19.1 & Ubuntu 16.04**

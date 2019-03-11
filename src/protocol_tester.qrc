@@ -1,0 +1,10 @@
+<RCC>
+  <qresource prefix="newPrefix">
+    <file>images/MQTT_Protocol.png</file>
+    <file>images/HTTP_Protocol.png</file>
+    <file>images/MainWindow_Help.png</file>
+    <file>images/logo_3.png</file>
+    <file>images/CoAP_Protocol.png</file>
+    <file>images/upload.png</file>
+  </qresource>
+</RCC>

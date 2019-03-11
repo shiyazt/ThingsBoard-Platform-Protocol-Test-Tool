@@ -12,6 +12,7 @@ import paho.mqtt.publish as publish
 import time
 # import resources
 __author__ = "Shiyaz T"
+__email__ = "shiyaztech@gmail.com"
 
 #Load UI Files
 uifile_1 = '../UI/MainPage.ui'

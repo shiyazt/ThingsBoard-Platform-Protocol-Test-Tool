@@ -17,7 +17,8 @@ example:
 ```
 {"key1":"value1", "key2":"value2"}
 ````
-
+Application Overview:
+--------------------
 ![alt text](https://github.com/shiyazt/ThingsBoard-Platform-Protocol-Tester/blob/master/images/MainWindow_Help.png)
 
 1) URL Field : Enter your Platform instance URL

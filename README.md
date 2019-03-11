@@ -37,12 +37,21 @@ Installation:
 
 Ubuntu 18.04 / Linuxmint 19.1 / Ubuntu 16.04:
 -----------------------------
+```
 sudo apt-get install build-essential
+
 sudo apt-get install qt5-default
+
 sudo apt-get install python3-pyqt5
+
 sudo apt install pyqt5-dev-tools
+
 sudo apt install python3-pip
+
 sudo apt-get install python3-setuptools
+
 pip3 install wheel
+
 pip3 install paho-mqtt
-sudo npm install coap-cli -g
+
+sudo npm install coap-cli -g ```

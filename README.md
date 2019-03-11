@@ -1,4 +1,4 @@
-# ThingsBoard-Platform-Protocol-Tester
+# ThingsBoard-Platform-Protocol-Test Tool
 Using this application user can able to test CoAP, MQTT & HTTP Protocol with your ThingsBoard Instance.
 [ThingsBoard](https://thingsboard.io/) supports following protocols for device connectivity:
 1) **CoAP**

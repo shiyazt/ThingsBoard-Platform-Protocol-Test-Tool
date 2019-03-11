@@ -1,5 +1,22 @@
 # ThingsBoard-Platform-Protocol-Tester
-Using this application user can able to test CoAP, MQTT & HTTP Protocol with your ThingsBoard Instance
+Using this application user can able to test CoAP, MQTT & HTTP Protocol with your ThingsBoard Instance.
+[ThingsBoard](https://thingsboard.io/) supports following protocols for device connectivity:
+1) CoAP
+2) MQTT
+3) HTTP
+
+**MQTT** :MQTT is a lightweight publish-subscribe messaging protocol which probably makes it the most suitable for various IoT devices. You can find more information about MQTT [here](http://mqtt.org/).
+
+**CoAP**: CoAP is a light-weight IoT protocol for constrained devices. CoAP protocol is UDP based, but similar to HTTP it uses request-response model. CoAP observes option allows to subscribe to resources and receive notifications on resource change. ThingsBoard server nodes act as a CoAP Server that supports both regular and observe requests.
+
+**HTTP**:HTTP is a general-purpose network protocol that can be used in IoT applications.
+
+**Json File Format**:
+By default, ThingsBoard supports key-value content in JSON. Key is always a string, while value can be either string, boolean, double or long.
+example:
+```
+{"key1":"value1", "key2":"value2"}
+````
 
 ![alt text](https://github.com/shiyazt/ThingsBoard-Platform-Protocol-Tester/blob/master/images/MainWindow_Help.png)
 

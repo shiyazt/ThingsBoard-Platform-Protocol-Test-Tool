@@ -11,6 +11,7 @@ import subprocess
 import paho.mqtt.publish as publish
 import time
 # import resources
+__author__ = "Shiyaz T"
 
 #Load UI Files
 uifile_1 = '../UI/MainPage.ui'

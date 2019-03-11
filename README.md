@@ -35,7 +35,7 @@ ThingsBoard Demo Instance Latest Telemetry
 Installation:
 ============
 
-Ubuntu 18.04 / Linuxmint 19.1 / Ubuntu 16.04:
+Ubuntu / Linuxmint / Debian:
 -----------------------------
 ```
 sudo apt-get install build-essential
@@ -55,3 +55,5 @@ pip3 install wheel
 pip3 install paho-mqtt
 
 sudo npm install coap-cli -g ```
+
+#**Tested and Worked on Ubuntu 18.04, Linuxmint 19.1 & Ubuntu 16.04**

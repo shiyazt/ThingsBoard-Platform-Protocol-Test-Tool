@@ -89,3 +89,12 @@ sudo npm install coap-cli -g
   ```
 
 #**Tested and Worked on Ubuntu 18.04, Linuxmint 19.1 & Ubuntu 16.04**
+
+Contributors
+------------
+Shiyaz T, shiyaz61@gmail.com
+
+Licence & Copyright
+-------------------
+ © 2019 Shiyaz T
+ Licenced under the [GPL-3.0 Licence](LICENCE)

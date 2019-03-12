@@ -97,4 +97,5 @@ Shiyaz T, shiyaz61@gmail.com
 Licence & Copyright
 -------------------
  © 2019 Shiyaz T
+ 
  Licenced under the [GPL-3.0 Licence](LICENCE)
